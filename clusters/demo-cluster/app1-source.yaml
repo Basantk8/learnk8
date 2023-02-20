@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/Basantk8/learnk8/kubernetes/deployments
+  url: https://github.com/Basantk8/learnk8/tree/main/kubernetes/deployments
 
