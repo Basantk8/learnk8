@@ -5,3 +5,4 @@ namespace: test
 resources:
 - namespace.yaml
 - deploy.yaml
+- emiginstance-op2.yaml
