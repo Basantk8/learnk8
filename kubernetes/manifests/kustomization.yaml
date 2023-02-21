@@ -3,5 +3,5 @@ kind: Kustomization
 namespace: test
 
 resources:
-- deploy.yaml
 - namespace.yaml
+- deploy.yaml
